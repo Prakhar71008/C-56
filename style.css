@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    background-color:aqua;
+}
+div{
+    margin-top: 10px;
+}
+.images{
+    display:flex;
+    justify-content:center;
+}
+.img1{
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color:blueviolet;
+}
